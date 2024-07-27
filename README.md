@@ -1,5 +1,4 @@
-#  Material de orientações para desenvolvimento da
-missão prática do 1º nível de conhecimento.
+#  Material de orientações para desenvolvimento da missão prática do 1º nível de conhecimento.
 
 ## RPG0014  - Iniciando o caminho pelo Java
 
